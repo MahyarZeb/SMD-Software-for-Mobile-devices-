@@ -6,10 +6,6 @@
 //   1. Desktop tables        → mobile cards
 //   2. Grand Total blank     → running estimate always on
 //   3. Down during registr.  → local-first, always available
-//
-// Expo Snack setup:
-//   • Paste into App.js
-//   • Add deps: react-native-chart-kit + react-native-svg
 // ═══════════════════════════════════════════════════════════════
 
 import React, { useState } from 'react';
